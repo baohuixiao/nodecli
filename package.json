@@ -1,0 +1,22 @@
+{
+  "name": "bb-h5-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "mycli": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^7.2.0",
+    "git-clone": "^0.1.0",
+    "inquirer": "^8.0.0",
+    "open": "^8.0.6",
+    "shelljs": "^0.8.4"
+  }
+}
