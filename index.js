@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const program = require('commander') // 快速开发命令行工具的node包
 const shell = require('shelljs')
 const download = require('git-clone') // 克隆远程仓库到本地
